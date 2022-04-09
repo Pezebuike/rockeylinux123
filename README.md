@@ -19,7 +19,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 💬 Ask me about IT career related.
 - 💬 Ask us about OverSeas Migration Related.
 - 💬 Ask us about Any Cloud,DevOps,K8s,Data,AI useCase Related.
-- 💬 Ask us about Any Europe Jobs Related. 
+- 💬 Ask us about Any Europe Jobs Related.....
 - 💬 Ask us about Any Europe Visa Sponsorship Related.
 - 💬 Ask us about Any Solution Architecture Related.
 - 😄 Pronouns: My name is **vijayabalan** and many known me as **Mr.Confusion**.
