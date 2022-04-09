@@ -31,7 +31,9 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 👇
   * Refer -  https://github.com/cloudnloud/rockeylinux123/blob/main/Rocky-linux-Installation.md
 
-
+```
+yum install httpd -y
+```
   
 
 ### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
